@@ -1,0 +1,236 @@
+{
+    "shoes": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Leather Shoes Massimo Dutti",
+                "price": 135,
+                "currency": "RON",
+                "image": "https://i.imgur.com/Rz8lVQa.jpg",
+                "size": 45,
+                "colour": "Black",
+                "material": "Leather",
+                "brand": "Massimo Dutti",
+                "description": "Leather sneakers, with white soles, from the 2019 autumn collection, Massimo Dutti."
+            },
+            {
+                "id": 2,
+                "name": "Black Sneakers Polo Ralph Lauren",
+                "price": 100,
+                "currency": "RON",
+                "image": "https://i.imgur.com/Og3Oh24.jpg",
+                "size": 45,
+                "colour": "Black",
+                "material": "Fabric",
+                "brand": "Polo Ralph Lauren",
+                "description": "Fabric-made sneakers, with white soles, from the 2019 summer collection, Polo Ralph Lauren."
+            },
+            {
+                "id": 3,
+                "name": "Brown leather boots Massimo",
+                "price": 185,
+                "currency": "RON",
+                "image": "https://i.imgur.com/zoqSu87.jpg",
+                "size": 45,
+                "colour": "Brown",
+                "material": "Leather",
+                "brand": "Massimo Dutti",
+                "description": "Brown leather boots, from the 2017 winter collection, Massimo Dutti."
+            }
+        ],
+        "image": "https://i.imgur.com/HXIQnlt.jpg",
+        "name": "Shoes",
+        "description": "Boots, office shoes, sneakers: quality-proof!"
+    },
+    "sweaters": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Cozy turtleneck sweater",
+                "price": 95,
+                "currency": "RON",
+                "image": "https://i.imgur.com/6afzuEr.jpg",
+                "size": "L",
+                "colour": "Brown",
+                "material": "Cashmere",
+                "brand": "DS Damat",
+                "description": "Cashmere sweater, slim fit, autumn collection 2019, DS Damat."
+            },
+            {
+                "id": 5,
+                "name": "Multicolored Sweater",
+                "price": 105,
+                "currency": "RON",
+                "image": "https://i.imgur.com/s0VytKc.jpg",
+                "size": "L",
+                "colour": "Multicolor",
+                "material": "Cotton",
+                "brand": "McNeal",
+                "description": "Multicolor sweater, winter collection 2019, McNeal."
+            },
+            {
+                "id": 6,
+                "name": "Warm aesthetic sweater ",
+                "price": 165,
+                "currency": "RON",
+                "image": "https://i.imgur.com/BWGgzlK.jpg",
+                "size": "L",
+                "colour": "Multicolor",
+                "material": "Wool",
+                "brand": "SELECTED",
+                "description": "Wool chequered sweater, autumn collection 2018, SELECTED."
+            },
+            {
+                "id": 7,
+                "name": "Wool sweater",
+                "price": 160,
+                "currency": "RON",
+                "image": "https://i.imgur.com/dTcMbHT.jpg",
+                "size": "L",
+                "colour": "Beige",
+                "material": "Wool",
+                "brand": "Massimo Dutti",
+                "description": "Wool sweater, winter collection 2017, Massimo Dutti."
+            }
+        ],
+        "image": "https://i.postimg.cc/L6HH4Tb6/sw-t.jpg",
+        "name": "Sweaters",
+        "description": "Nice cozy sweaters"
+    },
+    "pants": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Slim fit jeans",
+                "price": 35,
+                "currency": "RON",
+                "image": "https://i.imgur.com/VhpATO8.jpg",
+                "size": "34",
+                "colour": "Dark Blue",
+                "material": "Denim",
+                "brand": "DS Damat",
+                "description": "Dark Blue Jeans, slim fit, 2020 spring collection, DS Damat."
+            },
+            {
+                "id": 9,
+                "name": "Black slim fit jeans",
+                "price": 40,
+                "currency": "RON",
+                "image": "https://i.imgur.com/weiI07t.jpg",
+                "size": "34",
+                "colour": "Black",
+                "material": "Denim",
+                "brand": "DS Damat",
+                "description": "Black jeans, slim fit, 2020 summer collection, DS Damat."
+            }
+        ],
+        "image": "https://i.postimg.cc/Vv7LP01F/jns.jpg",
+        "name": "Pants",
+        "description": "Choose your best fit"
+    },
+    "jackets": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Long wool jacket",
+                "price": 210,
+                "currency": "RON",
+                "image": "https://i.imgur.com/IXrZitQ.jpg",
+                "size": "L",
+                "colour": "Dark Grey",
+                "material": "Wool",
+                "brand": "Peek and Cloppenburg",
+                "description": "Long jacket made of wool, winter collection, 2018, Peek and Cloppenburg."
+            },
+            {
+                "id": 11,
+                "name": "Dark blue jacket with detachable cowl",
+                "price": 250,
+                "currency": "RON",
+                "image": "https://i.imgur.com/eCZd7PU.jpg",
+                "size": "L",
+                "colour": "Dark Blue",
+                "material": "Polyester",
+                "brand": "DS Damat",
+                "description": "Dark blue jacket with detachable cowl, autumn collection of 2019, DS Damat."
+            }
+        ],
+        "image": "https://i.imgur.com/81I6Oab.jpg",
+        "name": "Jackets",
+        "description": "For rainy and freezy days"
+    },
+    "tshirts": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Striped T-Shirt",
+                "price": 90,
+                "currency": "RON",
+                "image": "https://i.imgur.com/BWvzCwB.jpg",
+                "size": "L",
+                "colour": "Multicolor",
+                "material": "Cotton",
+                "brand": "Lacoste",
+                "description": "Striped T-Shirt, spring collection 2017, Lacoste."
+            },
+            {
+                "id": 13,
+                "name": "Dragon printed T-Shirt",
+                "price": 110,
+                "currency": "RON",
+                "image": "https://i.imgur.com/4BbF4TO.jpg",
+                "size": "L",
+                "colour": "Red",
+                "material": "Polyester",
+                "brand": "Li Ning",
+                "description": "Ping pong t-shirt, with a dragon print, worn by the chinese players back in 2013."
+            },
+            {
+                "id": 14,
+                "name": "Original signed BVB T-Shirt",
+                "price": 1909,
+                "currency": "RON",
+                "image": "https://i.imgur.com/etIsbHV.jpg",
+                "size": "L",
+                "colour": "Black/Yellow",
+                "material": "Polyester",
+                "brand": "Puma",
+                "description": "A t-shirt worn in the 2018-2019 football season."
+            }
+        ],
+        "image": "https://i.postimg.cc/gjwkdkJF/tsr.jpg",
+        "name": "T-Shirts",
+        "description": "Always appropiate"
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Two-Faced handkerchief",
+                "price": 85,
+                "currency": "RON",
+                "image": "https://i.imgur.com/rSVUiLO.jpg",
+                "size": "Universal",
+                "colour": "Dark Blue/Grey",
+                "material": "Cashmere",
+                "brand": "Trussardi Jeans",
+                "description": "Nice cozy handkerchief, autumn collection of 2018, Trussardi Jeans."
+            },
+            {
+                "id": 16,
+                "name": "Leather gloves",
+                "price": 60,
+                "currency": "RON",
+                "image": "https://i.imgur.com/LbjGaZ1.jpg",
+                "size": "L",
+                "colour": "Black",
+                "material": "Leather",
+                "brand": "DS Damat",
+                "description": "Leather gloves, autumn collection of 2020, DS Damat."
+            }
+        ],
+        "image": "https://i.postimg.cc/x8KjqpKt/rng.jpg",
+        "name": "Accessories",
+        "description": "For some extra spice"
+    }
+}
